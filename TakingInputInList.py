@@ -6,5 +6,5 @@ Created on Thu May 27 19:29:50 2021
 """
 
 in1 = input("Enter a list element separated by space: ")
-list = in1.split()
-print(list)
+list1 = in1.split()
+print(list1)
